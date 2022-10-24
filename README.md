@@ -67,7 +67,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br><br><br><br><br><br><br>
 
 <div align="center" dir="auto">
- <a href="https://github.com/HASSAN5077?tab=repositories">
  <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN5077&amp;hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&amp;title_color=61dafb&amp;text_color=ffffff&amp;icon_color=61dafb&amp;bg_color=20232a&amp;langs_count=8&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div> <hr>
  
  
