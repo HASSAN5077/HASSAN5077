@@ -47,11 +47,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongodb-original-wordmark.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></code> <br><br> <br>
-
-
-
-<br> <br>
+<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></code> <br><br>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
@@ -64,7 +60,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 </p>
 
-<br><br>
+<br>
 
 <div align="center" dir="auto"> 
  <a href="https://github.com/HASSAN5077?tab=repositories">
@@ -77,7 +73,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a align="left" href="https://github.com/HASSAN5077/leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HASSAN5077&amp;repo=leetcode&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
 <a align="right" href="https://github.com/HASSAN5077/ReactJs-Admin-dasboard" title="React Admin Dashboard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HASSAN5077&amp;repo=ReactJs-Admin-dasboard&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
 
-<br><br><br><br><br>
+<br><br
 
 <div width="100%" align="center" dir="auto">
 <a align="left" href="https://github.com/HASSAN5077/online-hotel-reservation" title="Online Hotel Reservation Web"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HASSAN5077&amp;repo=online-hotel-reservation&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a>
