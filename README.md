@@ -64,7 +64,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 </p>
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 <div align="center" dir="auto"> 
  <a href="https://github.com/HASSAN5077?tab=repositories">
