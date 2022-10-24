@@ -63,7 +63,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HASSAN5077&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HASSAN5077&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div>
 
 <br><br><br><br><br><br><br>
 
