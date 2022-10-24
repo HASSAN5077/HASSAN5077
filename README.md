@@ -29,17 +29,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://leetcode.com/MUHAMMAD_HASSAN_NAWAZ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talhashafiqch" height="30" width="40" /></a>
 </p><br>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
-
-<p align="center">
-<a href="https://github.com/HASSAN5077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HASSAN5077&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HASSAN5077&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HASSAN5077&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <code"><img src="https://github.com/mtalhach/mtalhach/blob/main/images/c-original.jpg" style="width:40px;height:40px"></code>
@@ -74,7 +63,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HASSAN5077&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-<a href="https://github.com/HASSAN5077?tab=repositories" title="Go to Source">
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HASSAN5077&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div>
 
 <br><br><br><br><br><br><br>
