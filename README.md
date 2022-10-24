@@ -17,7 +17,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🤔 I’m looking for help with Machine Learning
 - ⚡ Empowering eCommerce Businesses
 - ✉️  You can contact me at muhammadhassanm531@gmail.com
-- 📱 +923071601809 <br> <br>
+- 📱 +923000212488 <br> <br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,19 +45,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/nodejs-original-wordmark.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/express-original-wordmark.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/header_logo.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/tensorflow-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pandas-original.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mongodb-original-wordmark.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/mysql-original-wordmark.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/firebase-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/django.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/dot-net-original-wordmark.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/pocoo_flask-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe_illustrator-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/adobe-xd.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/photoshop-line.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/figma-icon.jpg" style="width:40px;height:40px"></code>
-<code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/linux-original.jpg" style="width:40px;height:40px"></code>
 <code><img src="https://github.com/mtalhach/mtalhach/blob/main/images/git-scm-icon.jpg" style="width:40px;height:40px"></code> <br><br> <br>
 
 <h2>Tech Stack 💻</h2>
