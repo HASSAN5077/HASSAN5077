@@ -111,28 +111,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/book/en/v2"><img src="https://camo.githubusercontent.com/61ccaa7fd5962acc1e505bf3492e34d5811c8316d86f07e0491fc69d8958b74b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-000?style=for-the-badge&amp;logo=git" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/mtalhach"><img src="https://camo.githubusercontent.com/851717fe1659e3f6c285f37a7793de4197340d3a5cf8fdcde12577cdcf2afcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a></p> <br>
 
-
-
-<div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
-            <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
-                <span class="pl-s1">codeQuality</span>++;
-            }
-        }
-<span class="pl-c">// - Talha Ch</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Talha Ch" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div> <br> <br>
+<br> <br>
 
 <h2>Current GitHub Stats 📊</h2>
 <p align="center" dir="auto"></p>
@@ -172,6 +151,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a align="right" href="https://github.com/HASSAN5077/travel-website" title="Travel Agency Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HASSAN5077&amp;repo=travel-website&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
 
 
+<br><br><br><br><br>
 <br><br><br><br><br>
 
 <h4 align="center" dir="auto">
