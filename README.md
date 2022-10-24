@@ -22,17 +22,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhamma00892831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma00892831" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-talha-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-ch" height="30" width="40" /></a>
-<a href="https://fb.com/talha.shafiq.3720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talha.shafiq.3720" height="30" width="40" /></a>
-<a href="https://instagram.com/ch._.talha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch._.talha1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/talhashafiqch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhashafiqch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/talhashafiqch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talhashafiqch" height="30" width="40" /></a>
-  <a href="https://codepen.io/mtalhach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mtalhach" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16414158/muhammad-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mtalhach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mtalhach" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/muhammad talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad talha" height="30" width="40" /></a>
-<a href="https://discord.gg/4616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4616" height="30" width="40" /></a>
+<a href="https://twitter.com/M_HASSANNawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma00892831" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hassan-nawaz-323669205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-ch" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100077653316199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talha.shafiq.3720" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muhammadhassanm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhashafiqch" height="30" width="40" /></a>
+<a href="https://leetcode.com/MUHAMMAD_HASSAN_NAWAZ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talhashafiqch" height="30" width="40" /></a>
 </p><br>
 
 
