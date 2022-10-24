@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 👯 I’m looking to collaborate on Web Development & DSA
 - 🤔 I’m looking for help with Machine Learning
 - ⚡ Empowering eCommerce Businesses
-- ✉️  You can contact me at talhashafiqch@gmail.com
+- ✉️  You can contact me at muhammadhassanm531@gmail.com
 - 📱 +923071601809 <br> <br>
 
 
