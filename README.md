@@ -59,9 +59,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HASSAN5077&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-
-<br>
-
 <div align="center" dir="auto"> 
  <a href="https://github.com/HASSAN5077?tab=repositories">
  <img src="https://activity-graph.herokuapp.com/graph?username=HASSAN5077&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a>
@@ -86,8 +83,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a align="right" href="https://github.com/HASSAN5077/travel-website" title="Travel Agency Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HASSAN5077&amp;repo=travel-website&amp;theme=react&amp;border_color=61dafb&amp;border_radius=10" style="max-width: 100%;"></a></div>
 
 
-<br><br><br><br><br>
-<br><br><br><br><br>
+<br><br>
 
 <h4 align="center" dir="auto">
  <a href="https://github.com/HASSAN5077?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
